@@ -1,6 +1,6 @@
 {
   "name": "@sryd/tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tools for sryd design",
   "keywords": [
     "react",
@@ -29,6 +29,8 @@
     "@babel/plugin-transform-typescript": "^7.10.5",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
     "ansi-styles": "^4.0.0",
     "autoprefixer": "^10.0.1",
     "babel-jest": "^28.1.0",
@@ -69,6 +71,7 @@
     "remark-stringify": "^8.0.0",
     "remark-yaml-config": "^4.1.0",
     "rimraf": "^3.0.0",
+    "schema-utils": "^4.3.0",
     "terser-webpack-plugin": "^5.3.9",
     "through2": "^3.0.1",
     "ts-loader": "^8.0.12",
